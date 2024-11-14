@@ -14,8 +14,6 @@ Explain how to use your project. Include screenshots or examples if possible.
 ## Technologies Used
 List the technologies, programming languages, libraries, and tools used in your project.
 
-## Video Demo (Optional)
-Include a link to a video demo of your project.
 
 ## Features
 - Feature 1
